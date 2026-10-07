@@ -257,7 +257,7 @@ export function App() {
               <a href="#sobre" className="btn btn-outline btn-lg">Entender a Arte</a>
             </div>
             <div className="hero-stats">
-              <div class="stat-item">
+              <div className="stat-item">
                 <span className="stat-number">+15k</span>
                 <span className="stat-label">Praticantes</span>
               </div>
